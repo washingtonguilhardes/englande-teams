@@ -1,0 +1,569 @@
+[
+    {
+        "league_id": 524,
+        "name": "Premier League",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-09",
+        "season_end": "2020-05-17",
+        "logo": "https://media.api-sports.io/leagues/2.png",
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": true,
+                "lineups": true,
+                "statistics": true,
+                "players_statistics": true
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": true
+        }
+    },
+    {
+        "league_id": 565,
+        "name": "Championship",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-02",
+        "season_end": "2020-05-02",
+        "logo": "https://media.api-sports.io/leagues/3.png",
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": true,
+                "lineups": true,
+                "statistics": true,
+                "players_statistics": true
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": true
+        }
+    },
+    {
+        "league_id": 581,
+        "name": "League One",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-03",
+        "season_end": "2020-05-03",
+        "logo": "https://media.api-sports.io/leagues/164.png",
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": true,
+                "lineups": true,
+                "statistics": true,
+                "players_statistics": true
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": true
+        }
+    },
+    {
+        "league_id": 582,
+        "name": "League Two",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-03",
+        "season_end": "2020-04-25",
+        "logo": "https://media.api-sports.io/leagues/167.png",
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": true,
+                "lineups": true,
+                "statistics": true,
+                "players_statistics": true
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": true
+        }
+    },
+    {
+        "league_id": 764,
+        "name": "National League",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2020-03-07",
+        "season_end": "2020-04-25",
+        "logo": "https://media.api-sports.io/leagues/222.png",
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": true,
+                "lineups": true,
+                "statistics": false,
+                "players_statistics": false
+            },
+            "players": false,
+            "topScorers": false,
+            "predictions": true,
+            "odds": true
+        }
+    },
+    {
+        "league_id": 770,
+        "name": "FA WSL",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-09-07",
+        "season_end": "2020-05-15",
+        "logo": "https://media.api-sports.io/leagues/225.jpg",
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 0,
+        "is_current": 1,
+        "coverage": {
+            "standings": false,
+            "fixtures": {
+                "events": true,
+                "lineups": true,
+                "statistics": false,
+                "players_statistics": false
+            },
+            "players": false,
+            "topScorers": false,
+            "predictions": true,
+            "odds": false
+        }
+    },
+    {
+        "league_id": 955,
+        "name": "EFL Trophy",
+        "type": "Cup",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-06",
+        "season_end": "2020-04-05",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 0,
+        "is_current": 1,
+        "coverage": {
+            "standings": false,
+            "fixtures": {
+                "events": true,
+                "lineups": true,
+                "statistics": true,
+                "players_statistics": true
+            },
+            "players": false,
+            "topScorers": false,
+            "predictions": true,
+            "odds": false
+        }
+    },
+    {
+        "league_id": 956,
+        "name": "FA Trophy",
+        "type": "Cup",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-09-28",
+        "season_end": "2020-03-28",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 0,
+        "is_current": 1,
+        "coverage": {
+            "standings": false,
+            "fixtures": {
+                "events": true,
+                "lineups": true,
+                "statistics": false,
+                "players_statistics": false
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": true
+        }
+    },
+    {
+        "league_id": 957,
+        "name": "League Cup",
+        "type": "Cup",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-06",
+        "season_end": "2020-03-01",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 0,
+        "is_current": 1,
+        "coverage": {
+            "standings": false,
+            "fixtures": {
+                "events": true,
+                "lineups": true,
+                "statistics": true,
+                "players_statistics": true
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": false
+        }
+    },
+    {
+        "league_id": 1063,
+        "name": "FA Cup",
+        "type": "Cup",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-09",
+        "season_end": "2020-03-21",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 0,
+        "is_current": 1,
+        "coverage": {
+            "standings": false,
+            "fixtures": {
+                "events": true,
+                "lineups": true,
+                "statistics": true,
+                "players_statistics": true
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": true
+        }
+    },
+    {
+        "league_id": 1168,
+        "name": "National League - North",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-03",
+        "season_end": "2020-04-25",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": true,
+                "lineups": true,
+                "statistics": false,
+                "players_statistics": false
+            },
+            "players": false,
+            "topScorers": false,
+            "predictions": true,
+            "odds": true
+        }
+    },
+    {
+        "league_id": 1169,
+        "name": "National League - South",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-03",
+        "season_end": "2020-04-25",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": true,
+                "lineups": true,
+                "statistics": false,
+                "players_statistics": false
+            },
+            "players": false,
+            "topScorers": false,
+            "predictions": true,
+            "odds": true
+        }
+    },
+    {
+        "league_id": 1170,
+        "name": "Non League Div One - Isthmian North",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-17",
+        "season_end": "2020-04-25",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": false,
+                "lineups": false,
+                "statistics": false,
+                "players_statistics": false
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": false
+        }
+    },
+    {
+        "league_id": 1171,
+        "name": "Non League Div One - Isthmian South",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-17",
+        "season_end": "2020-04-25",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": false,
+                "lineups": false,
+                "statistics": false,
+                "players_statistics": false
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": false
+        }
+    },
+    {
+        "league_id": 1172,
+        "name": "Non League Div One - Northern North",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-17",
+        "season_end": "2020-04-25",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": false,
+                "lineups": false,
+                "statistics": false,
+                "players_statistics": false
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": false
+        }
+    },
+    {
+        "league_id": 1173,
+        "name": "Non League Div One - Northern South",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-17",
+        "season_end": "2020-04-25",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": false,
+                "lineups": false,
+                "statistics": false,
+                "players_statistics": false
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": false
+        }
+    },
+    {
+        "league_id": 1174,
+        "name": "Non League Div One - Southern Central",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-17",
+        "season_end": "2020-04-25",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": false,
+                "lineups": false,
+                "statistics": false,
+                "players_statistics": false
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": false
+        }
+    },
+    {
+        "league_id": 1175,
+        "name": "Non League Div One - Southern SW",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-17",
+        "season_end": "2020-04-25",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": false,
+                "lineups": false,
+                "statistics": false,
+                "players_statistics": false
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": false
+        }
+    },
+    {
+        "league_id": 1176,
+        "name": "Non League Premier - Isthmian",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-10",
+        "season_end": "2020-04-25",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": true,
+                "lineups": false,
+                "statistics": false,
+                "players_statistics": false
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": true
+        }
+    },
+    {
+        "league_id": 1177,
+        "name": "Non League Premier - Northern",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-17",
+        "season_end": "2020-04-25",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": true,
+                "lineups": false,
+                "statistics": false,
+                "players_statistics": false
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": true
+        }
+    },
+    {
+        "league_id": 1178,
+        "name": "Non League Premier - Southern",
+        "type": "League",
+        "country": "England",
+        "country_code": "GB",
+        "season": 2019,
+        "season_start": "2019-08-10",
+        "season_end": "2020-04-25",
+        "logo": null,
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "standings": 1,
+        "is_current": 1,
+        "coverage": {
+            "standings": true,
+            "fixtures": {
+                "events": true,
+                "lineups": false,
+                "statistics": false,
+                "players_statistics": false
+            },
+            "players": true,
+            "topScorers": true,
+            "predictions": true,
+            "odds": true
+        }
+    }
+]
